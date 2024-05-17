@@ -1,0 +1,45 @@
+
+.seccion_perfil{
+    border: 3px solid black;
+    border-radius: 5%;
+}
+
+.foto_perfil{
+    width: 200px;
+    height: 200px;
+    margin-left: 10px; 
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+.sobre_mi{
+    text-align: justify;
+    margin: 1% 5%;
+    font-size: large;
+}
+
+body{background-color: rgb(229, 229, 229);}
+
+li{
+    border-left: 5px solid red;
+    background-color: rgb(206, 202, 202);
+    list-style-type: none;
+    padding-left: 30px;
+    font-family: sans-serif;
+    font-size: larger;
+    width: 80%;
+
+}
+
+h1{
+    text-shadow: 0px 0px 5px red;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+h2{
+    color: red;
+    margin-left: 3%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
